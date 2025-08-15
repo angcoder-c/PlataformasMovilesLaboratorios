@@ -1,0 +1,15 @@
+*.iml
+Laboratorio5/.gradle
+Laboratorio5/local.properties
+Laboratorio5/.idea/caches
+Laboratorio5/.idea/libraries
+Laboratorio5/.idea/modules.xml
+Laboratorio5/.idea/workspace.xml
+Laboratorio5/.idea/navEditor.xml
+Laboratorio5/.idea/assetWizardSettings.xml
+Laboratorio5/.DS_Store
+Laboratorio5/build
+Laboratorio5/captures
+Laboratorio5/.externalNativeBuild
+Laboratorio5/.cxx
+Laboratorio5/local.properties
