@@ -191,7 +191,7 @@ fun Frontend(modifier: Modifier = Modifier) {
                             .clickable {
                                 Toast.makeText(
                                     context,
-                                    "Steak House\nQQQ",
+                                    "Steak House\nQQ",
                                     Toast.LENGTH_SHORT
                                 ).show()
                             }
