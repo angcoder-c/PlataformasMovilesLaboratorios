@@ -2,7 +2,7 @@
 * Angel Gabriel Chavez Otzoy
 * 24248
 * Laboratorio 06
-* 22/08/2025
+* 22/08/2025``
 * */
 
 
